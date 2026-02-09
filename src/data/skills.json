@@ -26,5 +26,10 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+    {
+    "title": "Elastic Stack",
+    "imageSrc": "skills/elk_stack.png"
   }
+
 ]

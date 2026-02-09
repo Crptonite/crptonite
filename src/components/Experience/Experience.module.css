@@ -14,6 +14,13 @@
   letter-spacing: 1.75px;
   text-transform: uppercase;
 }
+.skillImage {
+  width: 75px;          
+  height: 75px;         
+  object-fit: cover;    
+  border-radius: 8px;   
+}
+
 
 .content {
   display: flex;

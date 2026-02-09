@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "NYP Robotics CCA Website",
+    "imageSrc": "projects/computer_vision.png",
+    "description": "A collaborative web development project to design and build a responsive website for the NYP Robotics CCA. The project focused on teamwork, reusable components, and modern frontend workflow practices. Azlan developed the index and programming pages, while Lucas implemented the building, join-us, and timetable pages. Both members shared layouts and reusable components to ensure consistency across the website, including a common navigation system and carousel features. The project used SCSS for enhanced styling and Node.js for compiling and packaging assets.",
+    "skills": ["HTML", "CSS", "SCSS", "JavaScript", "Bootstrap", "Node.js", "Responsive Design"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/AzlanCoding/nyp-robo-website"
   },
   {
     "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "imageSrc": "projects/django.png",
+    "description": "A full-stack web application built with Django and React, featuring user authentication, CRUD operations, and a responsive design for user to take notes.",
+    "skills": ["React", "Express", "Node", "Django"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Crptonite/Django-React-Tutorial"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "ElasticSearch Python Tutorial",
+    "imageSrc": "projects/elastic.png",
+    "description": "A collection of notebooks and slides for learning Elasticsearch with Python. From this repo, you likely learned or practiced: Using Elasticsearch with Python, indexing data, running search queries, exploring examples in Jupyter notebooks, semantic search & embedding vectors, hybrid search, k-nearest neighbors (kNN) search.",
+    "skills": ["Elasticsearch", "Python", "Jupyter Notebooks"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Crptonite/ElasticSearch-Vue"
+  },
+  {
+    "title": "Interior Design Website AI",
+    "imageSrc": "projects/vna.png",
+    "description": "A full-stack web application built with Flask and React, featuring user authentication, CRUD operations, and a responsive design for user to manage personal account and admins to manage users.",
+    "skills": ["Flask", "HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://gitlab.com/250367B/it1125-web-development-project/"
   }
 ]
