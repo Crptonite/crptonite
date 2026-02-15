@@ -19,6 +19,15 @@
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
   },
+    {
+      "title": "Django",
+      "imageSrc": "skills/django.png"
+    },
+    {
+      "title": "Flask",
+      "imageSrc": "skills/flask.png"
+    },
+
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"

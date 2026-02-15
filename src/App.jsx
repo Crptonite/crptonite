@@ -5,8 +5,10 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
+import { useGsapAnimations } from "./hooks/useGsapAnimations";
 
 function App() {
+  useGsapAnimations
   return (
     <div className={styles.App}>
       <Navbar />
